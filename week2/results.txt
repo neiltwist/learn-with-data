@@ -1,0 +1,7 @@
+--- 3251.97152901 seconds ---
+100000 experiments run of 1000 coins and 10 flips per coin
+
+ν_1=0.50011
+ν_rand=0.500302
+ν_min=0.037544
+--- 3252.08826709 seconds ---
